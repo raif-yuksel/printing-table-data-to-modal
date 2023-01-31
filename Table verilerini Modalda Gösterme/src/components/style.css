@@ -1,0 +1,7 @@
+.modal-body p{
+    display: flex;
+    justify-content: space-between;
+}
+.modal-body p span.modal-lable {
+    width: max-content;
+}
